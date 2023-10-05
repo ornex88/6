@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://orion88.86handa.com/sitemap.xml
+Sitemap: https://orsettipadani.org/sitemap.xml
